@@ -1,4 +1,4 @@
 ### 👋 Hi there, welcome to my profile.
 
-- Software developer.
-- Much experience on Azure, .NET and Angular.
+- Software Engineer.
+- Much experience on Azure, .NET, Node.js, Flutter and Angular.
